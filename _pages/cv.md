@@ -174,7 +174,7 @@ Work experience 💼
     </p>
     Semester Thesis Student
     <div style="color:#7a7a7a">
-      Interactive art project with an RGB‑D camera, computer vision, and pose estimation in collaboration with <a href="https://www.porsandrao.com/">Pors & Rao</a> and Wyss Zurich.
+      Interactive art project with an RGB‑D camera, computer vision, and pose estimation in collaboration with <a href="https://www.porsandrao.com/">Pors & Rao</a> and <a href="https://wysszurich.ch/">Wyss Zurich</a>.
     </div>
   </div>
 </div>
