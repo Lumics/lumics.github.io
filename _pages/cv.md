@@ -31,6 +31,7 @@ Education 🎓
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
 
+<!-- ETH MSc-->
 <div style="display:flex;">
   <div style="flex:0.5; padding-right:5%">
     <img src="{{ site.url }}/images/resume/eth.png" alt="ETH Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
@@ -164,6 +165,41 @@ Work experience 💼
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
 
+<!-- Disney Master Thesis -->
+<div style="display:flex;">
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/disney.png" alt="Disney Research Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Disney Research Zurich</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Aug 2018 – Feb 2019</span>
+    </p>
+    Master Thesis Project
+    <div style="color:#7a7a7a">
+      Developed a versatile spray nozzle for mobile autonomous robots with real‑time feedback using computer vision and mechatronic systems.
+    </div>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- Disney Semester Thesis -->
+<div style="display:flex;">
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/disney.png" alt="Disney Research Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Disney Research Zurich</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Feb 2018 – Jun 2018</span>
+    </p>
+    Semester Thesis Student
+    <div style="color:#7a7a7a">
+      Interactive art project with an RGB‑D camera, computer vision, and pose estimation in collaboration with <a href="https://www.porsandrao.com/">Pors & Rao</a> and Wyss Zurich.
+    </div>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
 
 <!-- ASVZ Sailing Instructor -->
 <div style="display:flex;">
