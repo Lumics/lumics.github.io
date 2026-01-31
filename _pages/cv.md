@@ -224,16 +224,11 @@ Work experience 💼
 Leadership Skills 🎯
 ======
 <ul>
-  <li>Strategic Planning</li>
-  <li>Mentorship</li>
+  <li>Strategic Planning & International Business Development</li>
   <li>Intercultural Project & Stakeholder Management</li>
-  <li>Cross-functional Team Leadership</li>
-  <li>International Business Development</li>
-  <li>Process & Workflow Optimization</li>
-  <li>Resource Planning & Budget Management</li>
+  <li>Cross-functional Team Leadership & Mentorship</li>
+  <li>Process Optimization & Resource Management</li>
   <li>Customer Relationship Management</li>
-  <li>Training & Knowledge Transfer</li>
-  <li>Driving Team Innovation</li>
 </ul>
 
 <hr style="height:2em; margin:0em; visibility:hidden;" />
@@ -244,7 +239,7 @@ Technical Skills 🧰
   <li><b>Programming & Robotics</b>: Python, ROS, OpenCV</li>
   <li><b>Development Tools</b>: Docker, git</li>
   <li><b>Hardware & Prototyping</b>: Arduino, RasPi, 3D Printing</li>
-  <li><b>Software & Platforms</b>: MS Office, Google Workspace, Notion, Hubspot, Wrike</li>
+  <li><b>Software & Platforms</b>: MS Office, Google Workspace, Notion, HubSpot, Wrike</li>
   <li><b>Operating Systems</b>: Linux, macOS, Windows</li>
 </ul>
 
