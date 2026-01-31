@@ -101,22 +101,22 @@ Work experience 💼
       <span style="float:right; font-size:80%; color:#7a7a7a;">Mar 2023 – Present</span>
     </p>
     <div style="color:#7a7a7a">
-      • Recruited and lead a multidisciplinary team of 15 engineers, implementing mentorship programs and performance KPIs that increased efficiency during a 3x company headcount expansion. <br/>
-      • Built and scaled CS and Field functions from scratch, now leading US expansion and industrial rollout strategy. <br/>
-      • Shaped product direction by aligning PM, R&D, and customer input to improve market fit and deployment success. <br/>
-      • Rolled out tools and digital workflows now used by all customers and over 200 employees across the company. <br/>
-      • Orchestrated the rollout of resource planning and budget tracking systems, enabling data-driven decision-making and cross-team accountability for high-priority initiatives. <br/>
-      • Directed the end-to-end integration of autonomous systems into industrial workflows, synchronizing efforts between Production, Software, and external partners to ensure seamless operational readiness.
+      • Recruited and lead a team of 15 engineers, implementing mentorship programs and performance KPIs that increased efficiency during a 3x company headcount expansion. <br/>
+      • Built and scaled CS and Field functions from scratch, leading US expansion and industrial rollout strategy. <br/>
+      • Shaped product direction by aligning PM, R&D, and customer input to improve market fit. <br/>
+      • Rolled out tools and digital workflows used by all customers and over 200 employees. <br/>
+      • Orchestrated resource planning and budget tracking systems, enabling data-driven decision-making. <br/>
+      • Directed end-to-end integration of autonomous systems into industrial workflows, synchronizing Production, Software, and external partners.
     </div>
     <p style="margin:0px; margin-top:1em;">
       <b>Robotics Field Engineer</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">Jun 2021 – Mar 2023</span>
     </p>
     <div style="color:#7a7a7a">
-      • Led customer projects and developed software in Python & C++ to the customer needs. <br/>
+      • Led customer projects and developed software in Python & C++ for customer-specific needs. <br/>
       • Led global deployments and trainings, enabling scalable automation in complex industrial environments. <br/>
-      • Delivered presentations and demos to top Fortune 500 executives from production and tech companies. <br/>
-      • Contributed to prioritization of product investments based on customer demand, operational impact, and long-term strategy.
+      • Delivered presentations and demos to Fortune 500 executives from production and tech companies. <br/>
+      • Contributed to product investment prioritization based on customer demand and strategic impact.
     </div>
   </div>
 </div>
@@ -135,10 +135,10 @@ Work experience 💼
     <div style="color:#7a7a7a; margin-bottom:0.3em;">Stäfa</div>
     Field Application Engineer
     <div style="color:#7a7a7a">
-      • Acted as the central interface between Global Management, Sales, and Production, ensuring that customized sensor solutions were technically feasible and aligned with the company's international growth targets. <br/>
-      • Translated international customer requirements into technical specifications, driving the internal development of new sensor solutions for high-growth industrial applications. <br/>
-      • Giving support and sharing expertise to customers and internal teams around the world. Key focus: South Korea, China and Japan. <br/>
-      • Developing gadgets using prototyping tools (Solidworks, 3D printing, Microcontrollers) to showcase various sensor capabilities.
+      • Acted as central interface between Global Management, Sales, and Production, ensuring customized sensor solutions aligned with international growth targets. <br/>
+      • Translated international customer requirements into technical specifications, driving development of new sensor solutions for high-growth industrial applications. <br/>
+      • Supported customers and internal teams worldwide, with key focus on South Korea, China and Japan. <br/>
+      • Developed prototypes using Solidworks, 3D printing, and microcontrollers to showcase sensor capabilities.
     </div>
   </div>
 </div>
@@ -165,24 +165,6 @@ Work experience 💼
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
 
-<!-- Disney Master Thesis -->
-<div style="display:flex;">
-  <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/images/resume/disney.png" alt="Disney Research Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-  <div style="flex:4;">
-    <p style="margin:0px">
-      <b style="font-size: 130%;">Disney Research Zurich</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Aug 2018 – Feb 2019</span>
-    </p>
-    Master Thesis Project
-    <div style="color:#7a7a7a">
-      Developed a versatile spray nozzle for mobile autonomous robots with real‑time feedback using computer vision and mechatronic systems.
-    </div>
-  </div>
-</div>
-<hr style="height:1em; margin:0em; visibility:hidden;" />
-
 <!-- Disney Semester Thesis -->
 <div style="display:flex;">
   <div style="flex:0.5; padding-right:5%">
@@ -196,6 +178,24 @@ Work experience 💼
     Semester Thesis Student
     <div style="color:#7a7a7a">
       Interactive art project with an RGB‑D camera, computer vision, and pose estimation in collaboration with <a href="https://www.porsandrao.com/">Pors & Rao</a> and Wyss Zurich.
+    </div>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- Disney Master Thesis -->
+<div style="display:flex;">
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/disney.png" alt="Disney Research Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Disney Research Zurich</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Aug 2018 – Feb 2019</span>
+    </p>
+    Master Thesis Project
+    <div style="color:#7a7a7a">
+      Developed a versatile spray nozzle for mobile autonomous robots with real‑time feedback using computer vision and mechatronic systems.
     </div>
   </div>
 </div>
