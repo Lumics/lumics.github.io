@@ -144,22 +144,19 @@ Work experience 💼
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
 
-
-<!-- Sensirion Internship -->
+<!-- Disney Master Thesis -->
 <div style="display:flex;">
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/images/resume/sensirion.png" alt="Sensirion" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/resume/disney.png" alt="Disney Research Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Sensirion AG</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Jul 2016 – Dec 2016</span>
+      <b style="font-size: 130%;">Disney Research Zurich</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Aug 2018 – Feb 2019</span>
     </p>
-    <div style="color:#7a7a7a; margin-bottom:0.3em;">Stäfa</div>
-    Internship — Automotive sensor applications
+    Master Thesis Project
     <div style="color:#7a7a7a">
-      • Data analysis and GUI development in Python. <br/>
-      • Developing different hardware test setups and executing measurements for new sensor applications.
+      Developed a versatile spray nozzle for mobile autonomous robots with real‑time feedback using computer vision and mechatronic systems.
     </div>
   </div>
 </div>
@@ -183,23 +180,28 @@ Work experience 💼
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
 
-<!-- Disney Master Thesis -->
+
+
+<!-- Sensirion Internship -->
 <div style="display:flex;">
   <div style="flex:0.5; padding-right:5%">
-    <img src="{{ site.url }}/images/resume/disney.png" alt="Disney Research Zurich" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/images/resume/sensirion.png" alt="Sensirion" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Disney Research Zurich</b>
-      <span style="float:right; font-size:80%; color:#7a7a7a;">Aug 2018 – Feb 2019</span>
+      <b style="font-size: 130%;">Sensirion AG</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">Jul 2016 – Dec 2016</span>
     </p>
-    Master Thesis Project
+    <div style="color:#7a7a7a; margin-bottom:0.3em;">Stäfa</div>
+    Internship — Automotive sensor applications
     <div style="color:#7a7a7a">
-      Developed a versatile spray nozzle for mobile autonomous robots with real‑time feedback using computer vision and mechatronic systems.
+      • Data analysis and GUI development in Python. <br/>
+      • Developing different hardware test setups and executing measurements for new sensor applications.
     </div>
   </div>
 </div>
 <hr style="height:1em; margin:0em; visibility:hidden;" />
+
 
 <!-- ASVZ Sailing Instructor -->
 <div style="display:flex;">
